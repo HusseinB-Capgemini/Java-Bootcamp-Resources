@@ -1,5 +1,16 @@
 public class YourInitials {
+
+
     public static void main(String[] args) {
-         // Instructions for this workbook are on Learn the Part (See the Udemy Video: Your Initials to access the link).
+        System.out.println("H   H  BBBB ");
+        System.out.println("H   H  B   B");
+        System.out.println("H   H  B   B");
+        System.out.println("HHHHH  BBBB ");
+        System.out.println("H   H  B   B");
+        System.out.println("H   H  B   B");
+        System.out.println("H   H  BBBB ");
+        System.out.println("H   H  BBBB ");
+
     }
+
 }
