@@ -9,7 +9,6 @@ public class YourInitials {
         System.out.println("H   H  B   B");
         System.out.println("H   H  B   B");
         System.out.println("H   H  BBBB ");
-        System.out.println("H   H  BBBB ");
 
     }
 
