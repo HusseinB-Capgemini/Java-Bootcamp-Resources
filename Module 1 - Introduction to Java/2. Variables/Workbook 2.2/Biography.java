@@ -4,14 +4,14 @@ public class Biography {
         // Instructions for this workbook are on Learn the Part (see the Udemy Video: Workbook 2.2 to access the link).
 
 
-        // name (text)
-        // age (whole number)
-        // country (text)
-        // sport (text)
-        // hours (whole number)
-        // game (text)
-        // subject (text)
-        // grade (character)
+        String name = "Hussein";
+        int age = 26;
+        String country = "UK";
+        String sport = "Football";
+        int hours = 4;
+        String game = "table tennis";
+        String subject = "Math";
+        char grade = 'A';
      
         System.out.println("My name is <name>. I'm <age> years old, and I'm from <country> ");
         System.out.println("My favourite sport is <sport>. I play for <hours> hours a day");
